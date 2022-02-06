@@ -11,7 +11,7 @@ welcome({
     bgColor: '#78A9C9',
     // color: '#78A9C9',
     bold: true,
-    clear: true
+    clear: false
 })
 
 console.log(`
