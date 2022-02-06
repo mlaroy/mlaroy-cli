@@ -1,6 +1,6 @@
 {
     "name": "mlaroy",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "Get to know Michael LaRoy via `npx mlaroy`",
     "bin": {
         "mlaroy": "index.js"
@@ -15,6 +15,6 @@
         "michael"
     ],
     "license": "MIT",
-    "main" : "index.js",
+    "main": "index.js",
     "repository": "mlaroy/mlaroy-cli"
 }
