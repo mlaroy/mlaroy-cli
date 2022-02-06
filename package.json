@@ -13,5 +13,8 @@
         "Michael LaRoy",
         "mlaroy",
         "michael"
-    ]
+    ],
+    "license": "MIT",
+    "main" : "index.js",
+    "repository": "mlaroy/mlaroy-cli"
 }
