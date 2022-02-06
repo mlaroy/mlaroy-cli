@@ -16,5 +16,10 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": "mlaroy/mlaroy-cli"
+    "repository": "mlaroy/mlaroy-cli",
+    "author": {
+        "name": "Michael LaRoy",
+        "email": "mike.laroy@gmail.com",
+        "url": "https://mikelaroy.ca"
+    }
 }
